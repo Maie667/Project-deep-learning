@@ -14,7 +14,7 @@ The DAWN dataset includes a set of 1,000 images of real traffic environments, wh
 - data pre-proccessing: We modified the mistakes we found in the annotated files for each image and split the dataset into 75% train,15% val,10% test.
 ## Proposed Model
 ### Yolov5 model
-- We train the YoloV5s detector on the our dataset to detect and locate the object in image.
+- We train the YoloV5s detector on the our dataset to detect and locate the object in image or video.
 - the dataset At [folder DAWN_holdoutV2](https://drive.google.com/drive/folders/15CbWMwl-L_YFbPzjDluJBRAqmIFPnrLf?usp=sharing)
 
 ## Running the code
