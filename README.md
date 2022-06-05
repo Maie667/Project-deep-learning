@@ -1,6 +1,5 @@
 # Project-deep-learning
 # The project title" Object Detection in Hazardous Environment".
-## Authors
 ## Team members
 - [@ragadalhejaily](https://www.github.com/ragadalhejaily)
 - [@rahafalhejaily](https://www.github.com/rahafalhejaily)
