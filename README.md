@@ -20,7 +20,8 @@ The DAWN dataset includes a set of 1,000 images of real traffic environments, wh
 ## Running the code
 Run the code :  `python main.py --videos path of video`
 
-## Demo
-#https://user-images.githubusercontent.com/24452519/170476371-b7192762-b562-4d23-bf27-ae5ad11251b3.mp4
+## Result 
+https://user-images.githubusercontent.com/78260020/172044904-534dc965-e632-4956-972e-5c3b3b096aa3.mp4
+
 
 
