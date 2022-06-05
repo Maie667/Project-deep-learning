@@ -17,8 +17,6 @@ The DAWN dataset includes a set of 1,000 images of real traffic environments, wh
 ### Yolov5 model
 - We train the YoloV5s detector on the our dataset to detect and locate the object in image or video.
 
-## Running the code
-Run the code :  `python main.py --videos path of video`
 
 ## Result 
 
